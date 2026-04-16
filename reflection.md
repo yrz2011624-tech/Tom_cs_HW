@@ -6,12 +6,11 @@ Complete this file **after** your solutions in `codes/` are done and tested. Wri
 
 ## What changed compared to my plan
 
-_(Did you finish questions in a different order? Spend more time on one exercise than you expected? Update filenames or structure?)_
+I hadn’t anticipated this scenario in my plans; I’ll look for a tutorial on Bilibili.
 
 ## What was difficult
 
-_(Name specific exercises or ideas—for example loops, `print` formatting, or a bug that took a while to fix.)_
-
+I don’t know how to use symbols to perform calculations like division (//)
 ## What I learned
 
-_(One or two concrete habits or Python ideas you will use on the next assignment—not generic praise.)_
+When I try to do python, I know how to use variables in calculations
