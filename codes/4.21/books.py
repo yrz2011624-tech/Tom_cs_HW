@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 app = FastAPI()
 
+
 Books= [
 {'title':'Titleone','author':'Author one','category':'science'},
 {'title':'Titletwo','author':'Author two','category':'science'},
